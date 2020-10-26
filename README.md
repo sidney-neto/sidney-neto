@@ -8,7 +8,7 @@
   </p>
 </p>
 
-<h3 align="center">Languages and Tools</h3> 
+<h3 align="center">Tools and Languages</h3> 
 
 <p align="center">
     <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
