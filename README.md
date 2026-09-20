@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Sid :vulcan_salute:</h1>
 
 <p align="center">
@@ -99,5 +98,3 @@
 <p align="center">
   <i>Exploring scalable, efficient and production-ready infrastructure for Generative AI.</i>
 </p>
-```
-
